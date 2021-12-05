@@ -1,2 +1,2 @@
 # wang
-no
+use Github the first time
