@@ -1,2 +1,2 @@
 # wang
-use Github the first time
+to use Github the first time
